@@ -2,12 +2,16 @@
 
 | Algorithms  | Best  | Average  | Space  |
 |---|---|---|---|
-| Bubble Sort  |   |   |   |
-| Insertion Sort  |   |   |   |
-| Selection Sort  |   |   |   |
-| Quick Sort  |   |   |   |
-| Heap Sort  |   |   |   |
-| Merge Sort |   |   |   |
+| Bubble Sort  | O(n)  | O(n^2)  | O(1)  |
+| Insertion Sort  | O(n)  | O(n^2)  | O(1) |
+| Selection Sort  | O(n^2)  | O(n^2)  |  O(1) |
+| Quick Sort  | O(nlog(n))  | O(nlog(n))  | O(log(n))  |
+| Heap Sort  | O(nlog(n))  | O(nlog(n))  |  O(1) |
+| Merge Sort | O(nlog(n))  | O(nlog(n))  | O(n)  |
+
+
+
+<br>
 
 ## **Merge Sort**
 
