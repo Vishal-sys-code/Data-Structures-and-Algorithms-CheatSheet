@@ -19,3 +19,10 @@ Priority queue can be implemented using the following data structures:
 
 <hr>
 
+
+**Implementation in Java :**
+```
+Priori­tyQ­ueu­e<E> pq = new Priori­tyQ­ueue();
+```
+
+<hr>
