@@ -52,3 +52,11 @@ _Here E is the type of the object_.
 
 <hr>
 
+| Operations           |   Complexity  |
+|----------------------|---------------|
+| Enque(insertion)     |      O(1)     |
+| Deque(deletion)      |     O(1)      |
+| Front(Get front)     |      O(1)     |
+| Rear(Get Rear)       |     O(1)      |
+
+<hr>
