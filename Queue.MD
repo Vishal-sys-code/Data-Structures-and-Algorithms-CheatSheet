@@ -60,3 +60,10 @@ _Here E is the type of the object_.
 | Rear(Get Rear)       |     O(1)      |
 
 <hr>
+
+**Implementation in Java :**
+```
+Deque<­E> deque = new Linked­List();
+```
+
+<hr>
